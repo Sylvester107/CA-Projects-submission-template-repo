@@ -16,5 +16,5 @@
 ...
 
 ## Author
-Sylvester Junior Ampomha
+Sylvester Junior Ampomah
 
