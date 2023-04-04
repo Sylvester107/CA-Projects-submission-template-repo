@@ -1,10 +1,10 @@
-# CA-Projects-template-submission-repo
+# LP1 INDIA STARTUP by San Francisco Team
 *short project description*
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | Live_Project_1_San Francisco Team|  [Best article of the world](/) | [Best app of the world](/) |
+| LP1 | Live_Project_1_San Francisco Team|  [India Startup](https://www.linkedin.com/pulse/indias-start-up-ecosystem-jacob-jaroya) | [Best app of the world](/) |
 
 ## Project Description
 Introduction
