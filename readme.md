@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP# or P# | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
+| LP1 | Live_Project_1_San Francisco Team|  [Best article of the world](/) | [Best app of the world](/) |
 
 ## Project Description
 Introduction
